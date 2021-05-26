@@ -7,4 +7,5 @@ As stated in our [course policies](https://courses.codepath.org/snippets/ios_uni
 We are very strict in implementing our polices so please take time to review our [course policies](https://courses.codepath.org/snippets/ios_university/policies_remote_fall19). If you have further questions, please let us know.
 
 All the best,
+
 CodePath.org Team
